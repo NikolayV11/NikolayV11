@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @NikolayV11
-- 👀 I’m interested in программирование, решил попробовать что-то новое!)
-- 🌱 I’m currently learning python
+d- 🌱  javaScript  HTML  CSS
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me wasilev-n@mail.ru
 
