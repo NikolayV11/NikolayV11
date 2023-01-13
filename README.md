@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NikolayV11
-d- 🌱  javaScript  HTML  CSS
+- 🌱 I am learning programming language javaScript & HTML  CSS
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me wasilev-n@mail.ru
 
