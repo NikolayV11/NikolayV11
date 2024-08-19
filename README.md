@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nikolay
-- 🌱 I am learning javaScript, TypeScript & HTML,  CSS, SCSS, ReactJs, Redux ToolKit
+- 🌱 javaScript, TypeScript & HTML,  CSS, SCSS, ReactJs, Redux ToolKit
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me wasilev-n@mail.ru
 
